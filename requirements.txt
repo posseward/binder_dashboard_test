@@ -10,7 +10,6 @@ dash_html_components
 flask
 geopandas
 ipywidgets
-json
 numpy
 os
 pandas
