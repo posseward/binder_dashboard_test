@@ -12,9 +12,9 @@ geopandas
 ipywidgets
 numpy
 pandas
-plotly.graph_objects
-plotly.express
+plotly
+plotly_express
 datetime
 GPSPhoto
-jupyter_dash
+jupyter-dash
 sklearn
