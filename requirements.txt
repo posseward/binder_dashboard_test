@@ -19,3 +19,4 @@ GPSPhoto
 jupyter-dash
 sklearn
 exifread
+piexif
