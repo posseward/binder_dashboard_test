@@ -4,7 +4,7 @@ ipyvolume
 scipy
 voila
 dash
-dash_boostrap_components
+dash-boostrap-components
 dash_core_components
 dash_html_components
 flask
