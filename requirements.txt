@@ -20,3 +20,4 @@ jupyter-dash
 sklearn
 exifread
 piexif
+jupyter-server-proxy
