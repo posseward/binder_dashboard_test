@@ -21,3 +21,4 @@ sklearn
 exifread
 piexif
 jupyter-server-proxy
+nbconvert
